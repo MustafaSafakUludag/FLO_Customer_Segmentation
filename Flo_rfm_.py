@@ -189,7 +189,7 @@ cust_ids.to_csv("indirim_hedef_müşteri_ids.csv", index=False)
 
 
 
-# BONUS
+#Tüm süreci fonksiyonlaştırma
 
 
 def create_rfm(dataframe):
